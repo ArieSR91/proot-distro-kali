@@ -1,5 +1,5 @@
 # proot-distro-kali
-Install kali proot-distro in termux
+Install kali proot-distro in termux\
 only for aarch64
 
 cmd:\

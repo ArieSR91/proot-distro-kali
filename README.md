@@ -15,7 +15,7 @@ $ wget https://raw.githubusercontent.com/ArieSR91/proot-distro-kali/main/start &
 
 
 
-First step:
+## First step:
 
 After you login to kali linux type:
 

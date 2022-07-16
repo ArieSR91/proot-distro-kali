@@ -8,5 +8,5 @@ TARBALL_SHA256['aarch64']="cb35fe85c40329cf89c5333ec2b212e28532a6711f77d006ff6fc
 
 distro_setup() {
 	# Don't update gvfs-daemons and udisks2
-	run_proot_cmd apt-mark hold gvfs-daemons udisks2 && chown root:root /usr/bin/sudo && chmod 4755 /usr/bin/sudo
+	run_proot_cmd apt-mark hold gvfs-daemons udisks2
 }

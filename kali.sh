@@ -4,7 +4,7 @@
 DISTRO_NAME="Kali (Rolling)"
 
 TARBALL_URL['aarch64']="https://github.com/ArieSR91/install-debian/releases/download/kali-linux/kali.tar.xz"
-TARBALL_SHA256['aarch64']="162ec58dd3cfd4e8924ad64e9d9fa4ee0b4ea7ddcfb62a0f6c542c6e6079b0fd"
+TARBALL_SHA256['aarch64']="cb35fe85c40329cf89c5333ec2b212e28532a6711f77d006ff6fcb1c7aca62ca"
 
 distro_setup() {
 	# Don't update gvfs-daemons and udisks2

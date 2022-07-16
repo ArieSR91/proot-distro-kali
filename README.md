@@ -19,4 +19,4 @@ $ wget https://raw.githubusercontent.com/ArieSR91/proot-distro-kali/main/start &
 
 After you login to kali linux type:
 
-chown root:root /usr/bin/sudo && chmod 4755 /usr/bin/sudo
+root@kali # chown root:root /usr/bin/sudo && chmod 4755 /usr/bin/sudo

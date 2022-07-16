@@ -1,8 +1,8 @@
 # proot-distro-kali
 
 cmd:\
-$ wget https://raw.githubusercontent.com/ArieSR91/proot-distro-kali/main/start
-$ chmod +x start
+$ wget https://raw.githubusercontent.com/ArieSR91/proot-distro-kali/main/start\
+$ chmod +x start\
 $ ./start
 
 

@@ -4,7 +4,7 @@
 DISTRO_NAME="Kali (Rolling)"
 DISTRO_COMMENT="Only for Aarch64 hosts."
 
-TARBALL_URL['aarch64']="https://github.com/ArieSR91/install-debian/releases/download/kali-linux/kali.tar.xz"
+TARBALL_URL['aarch64']="https://github.com/ArieSR91/proot-distro-kali/releases/download/kali-linux/kali.tar.xz"
 TARBALL_SHA256['aarch64']="a7fa00a8211b5e95a7c9355c16a8a4822473c3cf86630082caea682b991202bc"
 
 distro_setup() {

@@ -5,5 +5,5 @@ mv kali.sh ../usr/etc/proot-distro/
 chmod +x ../usr/etc/proot-distro/kali.sh
 rm start
 echo "
-type: proot-distro install kali
+type: proot-distro list
 "

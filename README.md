@@ -1,6 +1,6 @@
 # proot-distro-kali
 Install kali proot-distro in termux\
-only for aarch64
+only for arm devices
 ### manual install
 cmd:
 ```

@@ -1,6 +1,4 @@
-# This is a default distribution plug-in.
-# Do not modify this file as your changes will be overwritten on next update.
-# If you want customize installation, please make a copy.
+# Kali Linux proot-distro by Arie-SR91
 DISTRO_NAME="Kali (Rolling)"
 DISTRO_COMMENT="Only for arm devices (32 & 64)."
 

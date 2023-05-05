@@ -2,7 +2,7 @@ apt install proot-distro wget pulseaudio
 mkdir ../usr/etc/proot-distro
 wget https://raw.githubusercontent.com/ArieSR91/proot-distro-kali/main/kali.sh
 mv kali.sh ../usr/etc/proot-distro/
-chmod +x ../usr/etc/proot-distro/kali.sh
+chmod 600 ../usr/etc/proot-distro/kali.sh
 rm start
 echo "
 type: proot-distro list

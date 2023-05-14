@@ -7,7 +7,7 @@ cmd:
 ```
 wget https://github.com/ArieSR91/proot-distro-kali/raw/main/proot-distro-kali.deb
 ```
-manual install
+manual install\
 cmd:
 ```
 wget https://raw.githubusercontent.com/ArieSR91/proot-distro-kali/main/start; chmod +x start; bash start

@@ -1,6 +1,7 @@
 # proot-distro-kali
-Install kali linux proot-distro in termux\
+Install kali linux proot-distro in termux,
 only for arm devices\
+
 deb install
 
 cmd:

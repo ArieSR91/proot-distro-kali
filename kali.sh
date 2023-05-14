@@ -4,8 +4,8 @@ DISTRO_COMMENT="Only for arm devices (32 & 64)."
 
 TARBALL_URL['aarch64']="https://github.com/ArieSR91/proot-distro-kali/releases/download/kali-linux64/kali-arm64.tar.xz"
 TARBALL_SHA256['aarch64']="89cf6de9c0e93cbdd08782a9241df7fac01dc47ff39681866a63b093dca1900d"
-TARBALL_URL['arm']="https://github.com/ArieSR91/proot-distro-kali/releases/download/kali-linux32/kali-armhf.tar.xz"
-TARBALL_SHA256['arm']="8348d1bab05e8672a1df58529dd0070beafaaa133bdfa7a3e25251a9c4d8d2d2"
+TARBALL_URL['arm']="https://github.com/ArieSR91/proot-distro-kali/releases/download/kali-linux32/kali-arm_1.0.tar.xz"
+TARBALL_SHA256['arm']="b0505d4fa73a9d1c309b6f0ba80c13c8c54f6aa426d585544d6566281020dcfd"
 
 distro_setup() {
 	# Don't update udisks2
